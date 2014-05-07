@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="GreenMapWebService.GreenMapService" CodeBehind="GreenMapService.svc.cs" %>
